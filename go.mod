@@ -1,3 +1,3 @@
 module github.com/ymst-tkhk/Test-Actions
 
-go 1,17
+go 1,17.7
