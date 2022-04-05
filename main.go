@@ -4,5 +4,5 @@ func Greeting() string {
 	return "Hello"
 }
 func main(){
-	fmt.Println(Greetiong())
+	fmt.Println(Greeting())
 }
